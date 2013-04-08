@@ -6,7 +6,7 @@ Simple shell script to install Drupal 6 and a LAMP Stack to your Raspberry Pi.  
 <h3>Installation Instructions:</h3>
 
     cd
-    git http://github.com/LikeABoss-001/Raspberry-Pi-Drupal6-Installation.git
+    git clone http://github.com/LikeABoss-001/Raspberry-Pi-Drupal6-Installation.git
     cd ~/Raspberry-Pi-Drupal6-Installation
     sudo bash install.sh
 
